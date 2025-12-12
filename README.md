@@ -25,7 +25,8 @@ Aplicación de escritorio para gestionar y visualizar el plan de estudios (UTN, 
 Si descargaste el código fuente y quieres crear tu propio ejecutable para Windows:
 
 1. Asegúrate de tener **Python** instalado (marcando la casilla "Add to PATH").
-2. Coloca `main.py` y `crear_exe.bat` en la misma carpeta.
+2. Coloca `main.py` y `crear_exe.bat` en la mi<img width="1359" height="717" alt="App" src="https://github.com/user-attachments/assets/aac15f78-cd1c-460b-964c-af2c533969e6" />
+sma carpeta.
 3. Haz doble clic en **`crear_exe.bat`**.
 4. ¡Listo! El script instalará las dependencias necesarias, compilará el programa y te dejará el archivo `.exe` listo para usar en esa misma carpeta.
 
@@ -35,5 +36,4 @@ Si prefieres ejecutar el script `main.py` directamente desde tu editor:
 pip install customtkinter pyinstaller
 python main.py
 
-<img width="1359" height="717" alt="App" src="https://github.com/user-attachments/assets/9420695c-0a8d-486e-94a7-c6058657698b" />
 
