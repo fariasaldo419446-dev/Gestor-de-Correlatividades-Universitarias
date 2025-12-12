@@ -34,3 +34,6 @@ Si prefieres ejecutar el script `main.py` directamente desde tu editor:
 ```bash
 pip install customtkinter pyinstaller
 python main.py
+
+<img width="1359" height="717" alt="App" src="https://github.com/user-attachments/assets/9420695c-0a8d-486e-94a7-c6058657698b" />
+
